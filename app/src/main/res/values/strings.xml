@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlashCards Study Guide</string>
+    <string name="title_activity_question_screen">Question_screen</string>
+    <string name="title_activity_score_screen">ScoreScreen</string>
+</resources>
