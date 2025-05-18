@@ -1,2 +1,3 @@
 # FlashCardsStudyGuide
- 
+## https://github.com/Khutie14/FlashCardsStudyGuide/tree/main
+## https://www.youtube.com/watch?v=nJnq-d_kJ1E
